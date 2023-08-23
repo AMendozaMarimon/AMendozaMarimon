@@ -1,16 +1,31 @@
-### Hi there 👋
+### ¡Saludos! Soy Aimar, y me complace conocerte 👋
 
-<!--
-**AMendozaMarimon/AMendozaMarimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mi Trayectoria en Breve 🚀
 
-Here are some ideas to get you started:
+Soy un apasionado Desarrollador Full Stack con una sólida base en Diseño Gráfico, fusionando magistralmente la estética visual con la funcionalidad. A lo largo de mi carrera, he trascendido las fronteras entre el diseño y el desarrollo web, generando soluciones digitales que no solo atraen visualmente, sino que también operan de manera excepcional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mi Enfoque ✨
+
+Mi enfoque actual se centra en la ejecución de proyectos que me permiten ampliar mis conocimientos, fomentar la innovación y buscar la excelencia en cada detalle. Mi destreza con tecnologías como React, Redux, JavaScript y Node.js me ha brindado la capacidad de crear aplicaciones dinámicas y receptivas que se adaptan a las cambiantes necesidades digitales.
+
+### ¿Qué tecnologías uso?
+
+En el Bootcamp SoyHenry he tenido la oportunidad de aprender y practicar una lista de tecnologías que han sido mi base de aprendizaje y futuras nuevas.
+
+  - Javascript
+  - HTML
+  - CSS
+  - React
+  - Redux
+  - NodeJs
+  - Express
+  - PostgresSQL
+  - Sequelize
+  - SQL
+  - GIT
+
+### Mi Visión 🌐
+
+Aspiro a convertirme en un sobresaliente Desarrollador Front-End, definiendo nuevos estándares en la intersección entre diseño y tecnología.
+
+¡Sigue el viaje conmigo mientras alcanzamos nuevos horizontes en el mundo del desarrollo web!
