@@ -29,3 +29,7 @@ En el Bootcamp SoyHenry he tenido la oportunidad de aprender y practicar una lis
 Aspiro a convertirme en un sobresaliente Desarrollador Front-End, definiendo nuevos estándares en la intersección entre diseño y tecnología.
 
 ¡Sigue el viaje conmigo mientras alcanzamos nuevos horizontes en el mundo del desarrollo web!
+
+### Contáctame!
+
+Correo: mendozzaaymar02@gmail.com
