@@ -1,4 +1,4 @@
-# ¡Saludos! Soy Aimar, y me complace conocerte 👋
+# ¡Saludos! Soy Aimar, y me complace conocerte 😊
 
 Trayectoria 🚀<br>Soy un apasionado Desarrollador Full Stack con experiencia en Diseño Gráfico. A lo largo de mi carrera, he destacado fusionando la estética visual con la funcionalidad, trascendiendo las barreras entre el diseño y el desarrollo web para crear soluciones digitales atractivas y altamente funcionales.<br><br>Enfoque ✨<br>Mi enfoque actual se centra en la ejecución de proyectos que amplíen mis conocimientos, fomenten la innovación y busquen la excelencia en cada detalle. Mi destreza con tecnologías como React, Redux, JavaScript y Node.js me permite crear aplicaciones dinámicas y receptivas, adaptándome a las cambiantes necesidades digitales.<br><br>Mi Visión 🌐<br>Aspiro a convertirme en un sobresaliente Desarrollador Front-End, definiendo nuevos estándares en la intersección entre diseño y tecnología.¡Sigue el viaje conmigo mientras alcanzamos nuevos horizontes en el mundo del desarrollo web!<br><br>Contáctame!<br>Correo: mendozzaaymar02@gmail.com
 
