@@ -1,35 +1,17 @@
-### ¡Saludos! Soy Aimar, y me complace conocerte 👋
+# ¡Saludos! Soy Aimar, y me complace conocerte 👋
 
-### Mi Trayectoria en Breve 🚀
+Trayectoria 🚀<br>Soy un apasionado Desarrollador Full Stack con experiencia en Diseño Gráfico. A lo largo de mi carrera, he destacado fusionando la estética visual con la funcionalidad, trascendiendo las barreras entre el diseño y el desarrollo web para crear soluciones digitales atractivas y altamente funcionales.<br><br>Enfoque ✨<br>Mi enfoque actual se centra en la ejecución de proyectos que amplíen mis conocimientos, fomenten la innovación y busquen la excelencia en cada detalle. Mi destreza con tecnologías como React, Redux, JavaScript y Node.js me permite crear aplicaciones dinámicas y receptivas, adaptándome a las cambiantes necesidades digitales.<br><br>Mi Visión 🌐<br>Aspiro a convertirme en un sobresaliente Desarrollador Front-End, definiendo nuevos estándares en la intersección entre diseño y tecnología.¡Sigue el viaje conmigo mientras alcanzamos nuevos horizontes en el mundo del desarrollo web!<br><br>Contáctame!<br>Correo: mendozzaaymar02@gmail.com
 
-Soy un apasionado Desarrollador Full Stack con una sólida base en Diseño Gráfico, fusionando magistralmente la estética visual con la funcionalidad. A lo largo de mi carrera, he trascendido las fronteras entre el diseño y el desarrollo web, generando soluciones digitales que no solo atraen visualmente, sino que también operan de manera excepcional.
+## Stacks 💻:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+## GitHub Stats 📊:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AMendozaMarimon&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### Mi Enfoque ✨
+##  Random Dev Meme 😂:
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-Mi enfoque actual se centra en la ejecución de proyectos que me permiten ampliar mis conocimientos, fomentar la innovación y buscar la excelencia en cada detalle. Mi destreza con tecnologías como React, Redux, JavaScript y Node.js me ha brindado la capacidad de crear aplicaciones dinámicas y receptivas que se adaptan a las cambiantes necesidades digitales.
+---
+[![](https://visitcount.itsvg.in/api?id=AMendozaMarimon&icon=0&color=2)](https://visitcount.itsvg.in)
 
-### ¿Qué tecnologías uso?
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-En el Bootcamp SoyHenry he tenido la oportunidad de aprender y practicar una lista de tecnologías que han sido mi base de aprendizaje y futuras nuevas.
-
-  - Javascript
-  - HTML
-  - CSS
-  - React
-  - Redux
-  - NodeJs
-  - Express
-  - PostgresSQL
-  - Sequelize
-  - SQL
-  - GIT
-
-### Mi Visión 🌐
-
-Aspiro a convertirme en un sobresaliente Desarrollador Front-End, definiendo nuevos estándares en la intersección entre diseño y tecnología.
-
-¡Sigue el viaje conmigo mientras alcanzamos nuevos horizontes en el mundo del desarrollo web!
-
-### Contáctame!
-
-Correo: mendozzaaymar02@gmail.com
